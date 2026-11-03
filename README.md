@@ -37,7 +37,7 @@ This dashboard was designed and built to track, analyze, and visualize key perfo
 * **Total Net Profit:** $224.08K[cite: 1]
 
 ### 4. Monthly Sales Performance
-* Peak sales occurred in **April ($390K)**, followed by a steady performance mid-year closing June at **$355K**[cite: 1].
+* Peak sales occurred in **April ($390K)**, followed by a steady performance mid-year closing June at **$355K**.[cite: 1]
 * **January:** $275K | **February:** $326K | **March:** $272K | **May:** $307K[cite: 1]
 
 ### 5. Quantity by Region
@@ -56,4 +56,4 @@ This dashboard was designed and built to track, analyze, and visualize key perfo
 ---
 
 ## 📸 Dashboard Preview
-*(You can insert a screenshot of your Power BI dashboard here)*
+![Sales Dashboard Preview](https://raw.githubusercontent.com/Ahmed-Badir/Sales-Dashboard-25/main/Screenshot%202026-11-03%20023904.png)
